@@ -137,3 +137,11 @@
   applications:
     - earth observation (e.g. sea ice mapping in SAR imagery)
     - data-driven forecast models
+- name: Lea Poropat
+  email: lep@dmi.dk
+  social:
+    github: leapor
+  techniques:
+    - GMM, LSTM, Random Forest
+  applications:
+    - Regional sea level
